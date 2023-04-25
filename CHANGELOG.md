@@ -1,3 +1,9 @@
+## 2.1.0 (2023-04-25)
+
+### Feat
+
+- **new_function**: adds a new function
+
 ## 2.0.1 (2023-04-25)
 
 ### Fix
