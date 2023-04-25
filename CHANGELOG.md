@@ -1,3 +1,13 @@
+## 0.3.0 (2023-04-24)
+
+### BREAKING CHANGE
+
+- my_function will no longer add 1
+
+### Refactor
+
+- **my_function**: rework my_function to add 2 instead of 1
+
 ## 0.2.0 (2023-04-24)
 
 ### Feat
