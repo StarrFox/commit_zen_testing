@@ -7,8 +7,9 @@ commit:
     cz commit
 
 push:
-    git push --tags
+    git push
 
 bump:
     cz bump
+    git push
     git push --tags
