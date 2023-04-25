@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "commit_zen_testing"
-version = "0.0.1"
+version = "0.1.0"
 description = "Testing commit zen"
 authors = ["StarrFox"]
 license = "MIT"
