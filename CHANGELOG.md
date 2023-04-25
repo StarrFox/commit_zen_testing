@@ -1,3 +1,13 @@
+## 2.0.0 (2023-04-24)
+
+### Fix
+
+- **remove-commitzen-0-major-version-thing**: removes commitzen 0 major version thing
+
+### Refactor
+
+- **other**: make other return 2 instead of 1
+
 ## 1.0.0 (2023-04-24)
 
 ### Feat
