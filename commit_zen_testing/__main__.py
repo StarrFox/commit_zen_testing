@@ -1,5 +1,5 @@
 def my_function(arg1: int):
-    return arg1 + 1
+    return arg1 + 2
 
 
 def main():
