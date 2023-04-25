@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "commit_zen_testing"
+version = "0.0.1"
+description = "Testing commit zen"
+authors = ["StarrFox"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/StarrFox/commit_zen_testing"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+tag_format = "$version"
+version_type = "semver"
+version_provider = "poetry"
+update_changelog_on_bump = true
+major_version_zero = true
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
