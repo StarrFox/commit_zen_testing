@@ -1,3 +1,9 @@
+## 1.0.0 (2023-04-24)
+
+### Feat
+
+- **other**: add other function
+
 ## 0.3.0 (2023-04-24)
 
 ### BREAKING CHANGE
