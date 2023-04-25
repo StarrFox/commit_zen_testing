@@ -3,7 +3,7 @@ def my_function(arg1: int):
 
 
 def other():
-    return 1
+    return 2
 
 
 def main():
